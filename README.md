@@ -9,7 +9,7 @@
 ## Setup
 ```
 npm install -g truffle
-git clone https://github.com/tko22/truffle-webpack-boilerplate.git
+git clone git@github.com:naz46/blockchain-voting-dapp.git
 cd truffle-webpack-boilerplate
 npm install
 npm run dev
