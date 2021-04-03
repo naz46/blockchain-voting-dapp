@@ -21,10 +21,10 @@ In the other tab run 'truffle deploy --reset --network development'
     - add truffle.js from the repo
     <img width="1188" alt="Screen Shot 2021-04-04 at 00 01 37" src="https://user-images.githubusercontent.com/15925608/113492666-b62eb980-94e1-11eb-8c13-fb1c441f58c5.png">
 
- 
 - Address information must be entered as a new Ethereum network after the installation of Metamask. You can find the address details in the truffle.js.
 
 ![image27](https://user-images.githubusercontent.com/15925608/113492207-95b13000-94de-11eb-9b59-4504339eca10.png)
+
 
 - An account needs to be added to the Ethereum network. This process is done with the test accounts given by Ganache so that the application can be tested. For the process of adding, it is necessary to click on the "import account" section in Figure 4.16 and enter the private key. Thus, the voting web page is never aware of your identity. Then connect the account to the web page.
 ![image20](https://user-images.githubusercontent.com/15925608/113492212-9cd83e00-94de-11eb-8ce2-f63591c61b0f.png)
