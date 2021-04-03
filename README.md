@@ -16,7 +16,13 @@ npm run dev
 In the other tab run 'truffle deploy --reset --network development'
 ```
 ## Important Steps
-- First of all, address information must be entered as a new Ethereum network after the installation of Metamask. You can find the address details in the truffle.js.
+- Install Ganache and add a new workspace like this
+    - the name should be 'development'
+    - add truffle.js from the repo
+    <img width="1188" alt="Screen Shot 2021-04-04 at 00 01 37" src="https://user-images.githubusercontent.com/15925608/113492666-b62eb980-94e1-11eb-8c13-fb1c441f58c5.png">
+
+ 
+- Address information must be entered as a new Ethereum network after the installation of Metamask. You can find the address details in the truffle.js.
 
 ![image27](https://user-images.githubusercontent.com/15925608/113492207-95b13000-94de-11eb-9b59-4504339eca10.png)
 
